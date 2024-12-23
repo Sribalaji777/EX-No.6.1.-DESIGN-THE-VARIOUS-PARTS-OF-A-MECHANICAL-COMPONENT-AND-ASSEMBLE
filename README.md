@@ -64,19 +64,21 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 #### LINKAGE
-![LINK](https://github.com/user-attachments/assets/4e67e7a3-db0a-4011-8dea-fe3224ba3a54)
+![Screenshot 2024-12-23 112706](https://github.com/user-attachments/assets/51af38c1-b338-49f8-a666-dcab70e35660)
+
 
 #### BASE PLATE  
-![1](https://github.com/user-attachments/assets/995bc33c-d32d-4fde-8ea0-c7e4d9922692)
+![Screenshot 2024-12-23 112608](https://github.com/user-attachments/assets/d936e2eb-3141-4fff-8c08-56d62e8b5de0)
+
 
 #### GEAR LINKAGE
-![GEAR](https://github.com/user-attachments/assets/5805f779-df44-453b-befb-34a9da1efabb)
+![Screenshot 2024-12-23 112623](https://github.com/user-attachments/assets/ae1cffe6-9ac4-48f4-ac74-3270f3f05cda)
 
 #### FINGER
-![FINGER](https://github.com/user-attachments/assets/df0e0459-84df-4867-9dad-e1b31ac11482)
+![Screenshot 2024-12-23 112639](https://github.com/user-attachments/assets/19147fdd-0b19-4e90-88b2-86bec6cb38aa)
 
 #### ASSEMBLED VIEW
-![Screenshot 2024-12-23 105640](https://github.com/user-attachments/assets/ab9af52c-6e49-47b0-bfa2-e7b4dbd30a6d)
+![Screenshot 2024-12-23 105640](https://github.com/user-attachments/assets/00db12a8-8576-4165-b909-4dc9bec2c78a)
 
 
 ## RESULT:
